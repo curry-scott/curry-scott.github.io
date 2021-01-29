@@ -8,10 +8,15 @@
 
 <h3>My past 24 hours</h3>
   <li> I have finished my 
-<a 
-  href="https://lab.github.com/githubtraining/first-week-on-github"
-  target="_blank"
+    <a 
+    href="https://lab.github.com/githubtraining/first-week-on-github"
+    target="_blank"
     >First Week</a></li>
-    
+  <li> I have started on this 
+    <a 
+   href="https://github.com/curry-scott/curry-scott.github.io"
+       target="_blank"
+       >blog</a></li>
+       
     
     
