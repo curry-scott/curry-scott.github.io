@@ -8,7 +8,7 @@
 <li>[X] Start a blog</li>
 
 
-<h4>My past 24 hours</h4>
+<h3>My past 24 hours</h3>
   <li> I have finished my 
     <a 
     href="https://lab.github.com/githubtraining/first-week-on-github"
@@ -20,7 +20,7 @@
        target="_blank"
        >blog</a></li>
        
-   <h5> Biggest challenges</h5>
+   <h3> Biggest challenges</h3>
     <li> Terminal</li>
     
     
