@@ -19,10 +19,10 @@
    href="https://github.com/curry-scott/curry-scott.github.io"
        target="_blank"
        >blog</a></li>
-       
-   <h3> Biggest challenges</h3>
-    <li> Terminal</li>
+           
     
+   <H3>Thoughts on Week One</h3>
+   <p> Week one was eciting! It's been failure after failure, but I'm producing my first blog. I have high expectations on this bootcamp to learn as much possible as fast as possible. I will get this blog posted and keep updating through the next 15 week. 
     
     
     
