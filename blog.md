@@ -2,6 +2,5 @@
 <h2> Objective of Week One</h2>
 <li>[X] Start learning Git</li>
 <li>[X] Start a Github account</li>
-<li>[X] 
-
+<li>[X] Start a blog</li>
 
