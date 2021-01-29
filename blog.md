@@ -20,5 +20,8 @@
        
    <h3> Biggest challenges</h3>
     <li> Terminal</li>
-   
+      <img
+      src='https://en.wikipedia.org/wiki/Terminal_(macOS)#/media/File:Terminalicon2.png'
+      </img>
+      
     
