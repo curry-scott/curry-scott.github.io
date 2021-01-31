@@ -23,6 +23,8 @@
     
    <H3>Thoughts on Week One</h3>
    <p> Week one was eciting! It's been failure after failure, but I'm also producing my first blog, in the first week. I have high expectations on this bootcamp to learn as much possible, as fast as possible. I will get this blog posted and keep updating through the next 15 week. </p>
+
+   ## Hello World
   
  
     
