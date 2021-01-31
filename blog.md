@@ -1,6 +1,7 @@
 <h1>First Blog for Awesome Inc Bootcamp 2021</h1>
 <h2>
-<img src="https://media.giphy.com/media/l0amJzVHIAfl7jMDos/giphy.gif"
+<img 
+  src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg"
 </h2>
 <h3> Objective of Week One</h3>
 <li>[X] Start learning Git</li>
