@@ -1,31 +1,21 @@
-<h1>First Blog for Awesome Inc Bootcamp 2021</h1>
-<h2>
-<img 
-  src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg"
-</h2>
-<h3> Objective of Week One</h3>
-<li>[X] Start learning Git</li>
-<li>[X] Start a Github account</li>
-<li>[X] Start a blog</li>
+## **First Blog for Awesome Inc Bootcamp 2021** 
+
+![http galaxy](https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg)
 
 
-<h3>My past 24 hours</h3>
-  <li> I have finished my 
-    <a 
-    href="https://lab.github.com/githubtraining/first-week-on-github"
-    target="_blank"
-    >First Week</a></li>
-  <li> I have started on this 
-    <a 
-   href="https://github.com/curry-scott/curry-scott.github.io"
-       target="_blank"
-       >blog</a></li>
+ ### *Objective of Week One*
+- Start learning Git 
+- Start a Github account
+- Start a blog
+
+
+### *My past 24 hours*
+  - I have finished my [First Week](https://lab.github.com/githubtraining/first-week-on-github)
+  - I have started on this [blog](https://github.com/curry-scott/curry-scott.github.io)
            
     
-   <H3>Thoughts on Week One</h3>
-   <p> Week one was eciting! It's been failure after failure, but I'm also producing my first blog, in the first week. I have high expectations on this bootcamp to learn as much possible, as fast as possible. I will get this blog posted and keep updating through the next 15 week. </p>
-
-   ## Hello World
+### *Thoughts on Week One*
+   Week one has been excitingly tough! There has and will continue being a lot of failing, but at the end of the first week I am starting to produce my first blog. Over the next 15 weeks I have high expectations to learn as much as possible and being prepared to enter a new career industry as a desired "Web Developer" fully qualified. 
   
  
     
