@@ -11,7 +11,7 @@
 
 ### *My past 24 hours*
   - I have finished my [First Week](https://lab.github.com/githubtraining/first-week-on-github)
-  - I have started on this [blog](https://github.com/curry-scott/curry-scott.github.io)
+  - I have started on this [Blog](https://github.com/curry-scott/curry-scott.github.io)
            
     
 ### *Thoughts on Week One*
