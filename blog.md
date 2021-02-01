@@ -15,7 +15,7 @@
            
     
 ### *Thoughts on Week One*
-   Week one has been excitingly tough! There has and will continue being a lot of failing, but at the end of the first week I am starting to produce my first blog. Over the next 15 weeks I have high expectations to learn as much as possible and being prepared to enter a new career industry as a desired "Web Developer" fully qualified. 
+   Week one has been excitingly tough! There has and will be more fails during this bootcamp, that is a sure statement. I'm proud to say that learing is a must, at the end of the first week I am starting to produce my first blog. Over the next 15 weeks I have high expectations to learn as much as possible and being prepared to enter a new career industry as a desired "Web Developer" fully qualified. 
   
  
     
