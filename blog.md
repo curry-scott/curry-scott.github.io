@@ -18,6 +18,7 @@
    Week one has been excitingly tough! The famous motto "Fail ofter, Fail fast and Fail forward" is a guarantee. Although failing happens often, I'm proud to say that I'm learing alot. At the end of the first week, I'm starting to produce my first blog. Over the next 15 weeks I don't know what to expect, but the expectations to learn are high. In the end of this 16 weeks of bootcamp my goal is to be prepared to enter a new career industry as a desired "Web Developer" fully qualified.
 
   
+Test
 
 
  
