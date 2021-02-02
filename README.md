@@ -1,8 +1,15 @@
-My first Awesome Inc Blog-2
-What I have done so far:
-<ul>
-  <li>1- Created new respository as public and README</li>
-  <li>2- Made "main" branch as root of respository</li>
-  <li>3- Copied url and have made a site- showing readme.md</li>
-  <li>4- Created a new file- "blog.md"</li>
-  </ul>
+## My first Awesome Inc Blog-2 ##
+### What I have done so far: ###
+
+  - 1- CLI (Command-Line Interface)
+  - 2- Created a file or folder
+  - 3- Delete a file or folder
+ -  4- Rename a file or folder
+  - 5- Git
+  - 6- Initialize a local repo
+  - 7- Add a commit to a branch
+  - 8- Creaded a branch 
+  - 9- Created a Markdown file
+  - 10- Started my blog
+  
+
