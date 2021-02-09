@@ -2,7 +2,7 @@
 
 ![http galaxy](https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg)
 
-## *_Week_ _One_*
+## *Week One*
 
  ### *Objective*
 - Start learning Git 
