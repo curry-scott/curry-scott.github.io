@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-## **Awesome Inc Bootcamp 2021 Blog**  
-=======
+
 # **Awesome Inc Bootcamp 2021 Blog** 
->>>>>>> 8e6e0935608d3ad8807409cf04da8535ed9176c7
+
 
 ![http galaxy](https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg)
 
@@ -24,15 +22,9 @@
 
   
 
-<<<<<<< HEAD
-
-## Week 
-=======
- *separate paragraph*
-
 ## *Week Two*
 
->>>>>>> 8e6e0935608d3ad8807409cf04da8535ed9176c7
+
  
 
     
