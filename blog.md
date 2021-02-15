@@ -31,6 +31,15 @@
   I'm excited to continue on this Awesome Inc Bootcamp journey to the end and learn as much possible to become the best person, coworker and final goal freelance web developer. I'm wanting to learn as much possible about each program languages, what they can do and what each are used for primarily to direct me of reaching my goals. 
 
 
+
+  ## Week Three*
+
+  Getting familiar with HTML, CSS and Javascript, I am seeing why when combined together they create most of the content on the web. There is a lot of information to understand about the three and bringing them together. HTML is what provides the structure and establishes the layout of your page. CSS gives your web page aesthetic characteristics and JavaScript gives the web page interactive qualities for the users. 
+
+  Pseudo coding!! It's a valuable tool, that you don't know that is actually need and the importance. Going through this weeks projects, I have come to understand the value of pseudo coding. This week we did a pseudo coding project, mine was over "making a cup of coffee". Never realized how many steps it takes to do such an easy task and without a plan (pseudo code) then explaing the basics steps becomes difficult. I see the value of pseudo coding and will continue doing them with all upcoming projects. 
+  
+
+
  
 
     
