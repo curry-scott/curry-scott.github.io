@@ -26,7 +26,7 @@
   </details>
 
 <details>
- <summary>Week Two</summary>
+ <summary><strong>Week Two</strong></summary>
  <br>
 
   The second week on this journey has been a little better. I am picking up on how to use a mac and terminal, which has been very helpful. Class wise though, this week has been focused on HTML and CSS. This subject hasn't been easy learning to insert pics and vidoes, then resizing and making the layout flow readable and working correctly. There is so much more than ever imaginable to making a simple website we see every day. 
@@ -39,7 +39,7 @@
 
 <details>
 
-  <summary>Week Three</summary>
+  <summary><strong>Week Three</strong></summary>
   <br>
 
   Getting familiar with HTML, CSS and Javascript, I am seeing why when combined together they create most of the content on the web. There is a lot of information to understand about the three and bringing them together. HTML is what provides the structure and establishes the layout of your page. CSS gives your web page aesthetic characteristics and JavaScript gives the web page interactive qualities for the users. 
