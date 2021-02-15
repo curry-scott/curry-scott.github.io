@@ -6,7 +6,7 @@
 
 
 <details>
-<summary>Week One</summary>
+<summary><strong>Week One</strong></summary>
 <br>
 
  ### *Objective*
