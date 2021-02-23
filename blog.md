@@ -10,19 +10,17 @@
     
 <h1>Awesome Inc Bootcamp 2021 Blog</h1>
 
-
-![http galaxy](https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg)
-
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg?" alt="galaxy">
 
 <details>
 <summary><strong>Week One</strong></summary>
 <br>
 
   <summary>Objective</summary>
-  <p>- Start learning Git</p><br> 
-  <p>- Start a Github account</p><br>
-  <p>- (https://lab.github.com/githubtraining/first-week-on-github)</p><br>
-  <p>- Started a blog about the "Awesome Inc Bootcamp</p><br>
+  <li>Start learning Git</li><br> 
+  <li>Start a Github account</li><br>
+  <ul>(https://lab.github.com/githubtraining/first-week-on-github)</ul><br>
+  <li>Started a blog about the "Awesome Inc Bootcamp</li><br>
           
   <h2>Thoughts on Week One</h2>
    
