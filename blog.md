@@ -51,6 +51,45 @@
   </details>
 
 
+<details>
+  <summary><strong>Week Four</strong></summary>
+  <br>
+
+  <p> Week four has been a good week. A lot of learning and Javascript hasn't been the easiest subject to learn. I find everything that we are doing and going over to be very interesting and I am looking forward to coninuing this journey. </p>
+
+<p> This week we was about the “Digital Clock” and “Countdown Timer”. Both are really cool projects and just a start on what we as developers are able to do. So far pre-work has been enjoyable, I have enjoyed the rapid learning and being able to see what you are learning.  Everything that we have learned so far have their own pros and cons. Everything has their challenge, but the possibilities are endless with what is being taught in this bootcamp. </p>
+
+<p> This is the last week of prework and starting Monday we will be in classroom and all learning together. I’m excited for the future.</P>
+ 
+
+</details>
+
+<details>
+
+  <summary><strong>Week Five</strong></summary>
+  <br>
+  <summary><strong>Week Five</strong></summary>
+  <br>
+
+  <p> Week five and the first week of being in the class room setting. We have all learned so much already and the information just keeps pouring in. It’s been difficult to retain all the information being thrown at us each week. It’s been very enjoyable being in the classroom setting and having everybody there together to help each other out and to get more views on issues. As for week five there are a few questions.</p>
+
+<p>What is the number one thing that held you back this week? Why?. I would have to say it learning something new. Every week we are learning a completely new, it’s difficult to retain all the information. Although I do like being pushed I would like to get more comfortable before moving to the next new subject. </p>
+
+<p> What is one thing you would like to learn more about regarding Javascript. Javascript is something that I plan on using daily. I want to learn as much possible and become an expert within the field with using Javascript. Anything I can learn, the better it will be. </p>
+
+
+<p> This is one thing you would like to learn more about regarding Bootstrap or Atomic Design? Atomic Design is an interesting view when creating or designing. An absolute great tool and way to view a process moving forward. I feel the same with Atomic Design as I do Javascript, knowing this information is only going to benefit you. As for Bootstrap, that is a very creative tool. I’m not sure my mind can really keep up with the creativity that Bootstrap allows. For those with the very creative minds, this is a huge tool that can make your business much more inviting and welcome. I will surely keep learning Bootstrap in the future. </p>
+
+<p> As for week 5, I believe this week has been a huge success and looking forward continuing this bootcamp. </p>
+ 
+
+</details>
+ 
+  </body>
+</html>
+    
+
+
  
   </body>
 </html>
