@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)https://mdbootstrap.com/snippets/jquery/lhock/1631372 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><!--<base target="_parent">--><base href="." target="_parent"><link rel="stylesheet" href="./all.css"><link rel="stylesheet" href="./bootstrap.min.css"><link rel="stylesheet" href="./mdb.min.css"><link rel="stylesheet" type="text/css" href="./mdb-plugins-gathered.min.css"><style>/*
+using a custom class "hover-animation" to bind the hover event to this class. then simply toggeling the animation classes (https://mdbootstrap.com/docs/jquery/css/animations/)
+and adding the custom attribute "data-hover-color" as text color on hover.
+*/</style><style type="text/css">/* Chart.js */
+@-webkit-keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}@keyframes chartjs-render-animation{from{opacity:0.99}to{opacity:1}}.chartjs-render-monitor{-webkit-animation:chartjs-render-animation 0.001s;animation:chartjs-render-animation 0.001s;}</style></head><body aria-busy="true"><div class="container mt-5">
+  
+    <a class="grey-text" data-toggle="tooltip" data-placement="top" title="" data-original-title="Quick Look">
+        <i class="fa fa-eye ml-3 hover-animation" data-hover-color="red"></i>
+    </a>
+  
+    <a class="grey-text" data-toggle="tooltip" data-placement="top" title="" data-original-title="Add to Wishlist">
+        <i class="fa fa-heart ml-3 hover-animation" data-hover-color="green"></i>
+    </a>
+  
+</div>
+<script type="text/javascript" src="./jquery.min.js"></script><script type="text/javascript" src="./popper.min.js"></script><script type="text/javascript" src="./bootstrap.min.js"></script><script type="text/javascript" src="./mdb.min.js"></script><div class="hiddendiv common"></div><script type="text/javascript" src="./mdb-plugins-gathered.min.js"></script><script type="text/javascript">{$('[data-toggle=tooltip]').tooltip();
+
+$('.hover-animation').hover(
+  function() {
+    $( this ).toggleClass( 'animated rubberBand ' + $( this ).attr('data-hover-color') + '-text' );
+  }
+);}</script></body></html>
